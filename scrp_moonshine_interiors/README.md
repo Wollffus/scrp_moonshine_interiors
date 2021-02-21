@@ -12,7 +12,3 @@
 # Configuration
 - Change interior sets per shack in config
 - Disable teleports and have interiors load in on connecting to server
-
-# Couldnt make without this awesome documentation
-- https://github.com/femga
-- https://github.com/femga/rdr3_discoveries/blob/399df3278b5101af1044f205c045648d2c8bcb38/interiors/interior_sets/README.md
